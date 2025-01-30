@@ -1,16 +1,32 @@
-### Hi there 👋
+Hi There, I'm Dayaasaagar 
 
-<!--
-**dayaasaagar/dayaasaagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skill Set 💪
+These are some of the major technologies that I use or have worked on in the past:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages
+
+Python	JS	Typescript	Go	C
+Libraries and Frameworks
+
+TensorFlow	Keras	Scikit Learn	OpenCV	Docker
+Flask	Django	jQuery	GraphQL	Selenium
+Infrastructure
+
+AWS	Kubernetes	Heroku
+Databases
+
+SQL	MongoDB	ElasticSearch
+Tools
+
+Ubuntu	ZSH	VS Code	git	Jupyter
+
+Some of my stats 📊
+	
+
+Let's Connect 🤝
+	
+Here is a random meme for you, to make your day better
+(PS: Refresh the page to see a new meme 😉 )
+
+Please refresh the page if the meme doesn't show up.
