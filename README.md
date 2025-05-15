@@ -67,16 +67,5 @@
 
 ---
 
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💻 Pushed code to `main` in `yourusername/leetcard-app`
-2. 🎯 Solved "Binary Search Tree Iterator" on LeetCode
-3. 📝 Created a new repo `azure-practice-lab`
-4. 🚀 Deployed `data-finder-tool` to Vercel
-<!--END_SECTION:activity-->
-
----
-
 > ✨ “Stay curious. Stay consistent. The cloud is not the limit — it's just the beginning.”
 
