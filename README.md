@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dayaasaagar</h1>
 <h3 align="center">🚀 Software Developer | Cloud Enthusiast | DevOps Learner</h3>
-
+<
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&lines=Full-Stack+Developer+%7C+Cloud+Engineer+in+training;Always+learning+%E2%9C%A8+%7C+Always+building+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </p>
-
+<div style="height: 10px;"></div>
 ---
 
 ## 🧠 About Me
